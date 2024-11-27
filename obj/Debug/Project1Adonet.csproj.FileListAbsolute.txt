@@ -1,0 +1,12 @@
+C:\Users\cigo_\source\repos\Project1Adonet\bin\Debug\Project1Adonet.exe.config
+C:\Users\cigo_\source\repos\Project1Adonet\bin\Debug\Project1Adonet.exe
+C:\Users\cigo_\source\repos\Project1Adonet\bin\Debug\Project1Adonet.pdb
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.Properties.Resources.resources
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.csproj.GenerateResource.cache
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.exe
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.pdb
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.FrmCity.resources
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.FrmMap.resources
+C:\Users\cigo_\source\repos\Project1Adonet\obj\Debug\Project1Adonet.FrmCustomer.resources
